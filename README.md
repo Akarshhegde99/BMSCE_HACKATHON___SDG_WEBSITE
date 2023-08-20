@@ -1,3 +1,3 @@
-# BMSCE_HACKATHON_SDP_Website
-Sustainability development project
+# BMSCE_HACKATHON_SDG_Website
+Sustainable Development Goals Project
 
